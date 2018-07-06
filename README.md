@@ -8,7 +8,9 @@ With electric cars now a reality, charging the devices the empower us will be on
 
 ```
 -------- Step 1 --------
-git clone git@github.com:uport-project/buidlbox.git ; cd buidlbox
+git clone https://github.com/gizzoXYZ/PwrShr.git ; 
+
+cd PwrShr
 
 -------- Step 2 --------
 npm install || yarn
@@ -246,10 +248,3 @@ const uportCredentials = new Credentials({
 A primary feature of uPort's Decentralized Identity is authentication using the Ethereum Blockchain.
 
 
-## How To Get Involved
-It's encouraged to format the BuidlBox issues adhering to our submission guidelines. A primary objective of the BuidlBox is to encourage collaboration and input from the uPort/Ethereum growing community. We want this to be your project. If you see an opportunity. Great! Create a public issue, uPort will fund the bounty and together we'll Open Source The World.
-
-- User Story
-- Background
-- Acceptance Criteria
-- Technical Details
