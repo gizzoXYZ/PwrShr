@@ -1,4 +1,5 @@
 # PwrShr 
+![Energy Sharing](documentation/assets/images/Pwr.png)
 
 Our first project is to provide a decentralised platform that allow anyone to use, store, share & sell energy they have harvested locally without the need for expensive electricity grids transmitting energy over hundreds of kilometres.
 
